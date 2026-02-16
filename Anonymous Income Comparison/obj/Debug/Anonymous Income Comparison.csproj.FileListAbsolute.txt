@@ -1,0 +1,8 @@
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Anonymous Income Comparison\bin\Debug\Anonymous Income Comparison.exe.config
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Anonymous Income Comparison\bin\Debug\Anonymous Income Comparison.exe
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Anonymous Income Comparison\bin\Debug\Anonymous Income Comparison.pdb
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Anonymous Income Comparison\obj\Debug\Anonymous Income Comparison.csproj.AssemblyReference.cache
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Anonymous Income Comparison\obj\Debug\Anonymous Income Comparison.csproj.CoreCompileInputs.cache
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Anonymous Income Comparison\obj\Debug\Anonymous Income Comparison.exe
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Anonymous Income Comparison\obj\Debug\Anonymous Income Comparison.pdb
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Anonymous Income Comparison\obj\Debug\Anonymous Income Comparison.exe.config
