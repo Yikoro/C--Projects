@@ -1,0 +1,8 @@
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Console app while-do loop\bin\Debug\Console app while-do loop.exe.config
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Console app while-do loop\bin\Debug\Console app while-do loop.exe
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Console app while-do loop\bin\Debug\Console app while-do loop.pdb
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Console app while-do loop\obj\Debug\Console app while-do loop.csproj.AssemblyReference.cache
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Console app while-do loop\obj\Debug\Console app while-do loop.csproj.CoreCompileInputs.cache
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Console app while-do loop\obj\Debug\Console app while-do loop.exe
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Console app while-do loop\obj\Debug\Console app while-do loop.pdb
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Console app while-do loop\obj\Debug\Console app while-do loop.exe.config
