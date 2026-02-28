@@ -1,0 +1,8 @@
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Arrays Submission Assignment\bin\Debug\Arrays Submission Assignment.exe.config
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Arrays Submission Assignment\bin\Debug\Arrays Submission Assignment.exe
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Arrays Submission Assignment\bin\Debug\Arrays Submission Assignment.pdb
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Arrays Submission Assignment\obj\Debug\Arrays Submission Assignment.csproj.AssemblyReference.cache
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Arrays Submission Assignment\obj\Debug\Arrays Submission Assignment.csproj.CoreCompileInputs.cache
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Arrays Submission Assignment\obj\Debug\Arrays Submission Assignment.exe
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Arrays Submission Assignment\obj\Debug\Arrays Submission Assignment.pdb
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Arrays Submission Assignment\obj\Debug\Arrays Submission Assignment.exe.config
