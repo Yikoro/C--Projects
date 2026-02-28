@@ -1,0 +1,8 @@
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Strings-CHALL\bin\Debug\Strings-CHALL.exe.config
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Strings-CHALL\bin\Debug\Strings-CHALL.exe
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Strings-CHALL\bin\Debug\Strings-CHALL.pdb
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Strings-CHALL\obj\Debug\Strings-CHALL.csproj.AssemblyReference.cache
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Strings-CHALL\obj\Debug\Strings-CHALL.csproj.CoreCompileInputs.cache
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Strings-CHALL\obj\Debug\Strings-CHALL.exe
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Strings-CHALL\obj\Debug\Strings-CHALL.pdb
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Strings-CHALL\obj\Debug\Strings-CHALL.exe.config
