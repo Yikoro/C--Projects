@@ -1,0 +1,8 @@
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Console-App-tryCatch\bin\Debug\Console-App-tryCatch.exe.config
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Console-App-tryCatch\bin\Debug\Console-App-tryCatch.exe
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Console-App-tryCatch\bin\Debug\Console-App-tryCatch.pdb
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Console-App-tryCatch\obj\Debug\Console-App-tryCatch.csproj.AssemblyReference.cache
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Console-App-tryCatch\obj\Debug\Console-App-tryCatch.csproj.CoreCompileInputs.cache
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Console-App-tryCatch\obj\Debug\Console-App-tryCatch.exe
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Console-App-tryCatch\obj\Debug\Console-App-tryCatch.pdb
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Console-App-tryCatch\obj\Debug\Console-App-tryCatch.exe.config
