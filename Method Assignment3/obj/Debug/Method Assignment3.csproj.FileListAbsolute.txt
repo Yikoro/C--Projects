@@ -1,0 +1,8 @@
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Method Assignment3\bin\Debug\Method Assignment3.exe.config
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Method Assignment3\bin\Debug\Method Assignment3.exe
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Method Assignment3\bin\Debug\Method Assignment3.pdb
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Method Assignment3\obj\Debug\Method Assignment3.csproj.AssemblyReference.cache
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Method Assignment3\obj\Debug\Method Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Method Assignment3\obj\Debug\Method Assignment3.exe
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Method Assignment3\obj\Debug\Method Assignment3.pdb
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Method Assignment3\obj\Debug\Method Assignment3.exe.config
