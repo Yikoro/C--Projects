@@ -1,0 +1,7 @@
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Class submission assignment\bin\Debug\Class submission assignment.exe.config
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Class submission assignment\bin\Debug\Class submission assignment.exe
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Class submission assignment\bin\Debug\Class submission assignment.pdb
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Class submission assignment\obj\Debug\Class submission assignment.csproj.AssemblyReference.cache
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Class submission assignment\obj\Debug\Class submission assignment.csproj.CoreCompileInputs.cache
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Class submission assignment\obj\Debug\Class submission assignment.exe
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\Class submission assignment\obj\Debug\Class submission assignment.pdb
