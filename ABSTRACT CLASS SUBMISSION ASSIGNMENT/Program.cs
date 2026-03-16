@@ -17,6 +17,9 @@ namespace ABSTRACT_CLASS_SUBMISSION_ASSIGNMENT
             };
 
             employee.SayName();
+
+            IQuittable quittable = employee;
+            quittable.Quit();
         }
     }
 }

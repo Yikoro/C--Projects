@@ -6,11 +6,15 @@ using System.Threading.Tasks;
 
 namespace ABSTRACT_CLASS_SUBMISSION_ASSIGNMENT
 {
-    public class Employee : Person
+    public class Employee : Person, IQuittable
     {
         public override void SayName()
         {
-            Console.WriteLine($"The name is {FirstName} {LastName}");
+            Console.WriteLine($"Their name is {FirstName} {LastName}");
+        }
+        public void Quit()
+        {
+            Console.WriteLine($"{FirstName} {LastName} has put there 2 weeks in and quit their job. ");
         }
     }
 }
