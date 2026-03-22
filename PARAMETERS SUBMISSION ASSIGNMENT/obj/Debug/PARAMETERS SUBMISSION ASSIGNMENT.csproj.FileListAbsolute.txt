@@ -1,0 +1,8 @@
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\PARAMETERS SUBMISSION ASSIGNMENT\bin\Debug\PARAMETERS SUBMISSION ASSIGNMENT.exe.config
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\PARAMETERS SUBMISSION ASSIGNMENT\bin\Debug\PARAMETERS SUBMISSION ASSIGNMENT.exe
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\PARAMETERS SUBMISSION ASSIGNMENT\bin\Debug\PARAMETERS SUBMISSION ASSIGNMENT.pdb
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\PARAMETERS SUBMISSION ASSIGNMENT\obj\Debug\PARAMETERS SUBMISSION ASSIGNMENT.csproj.AssemblyReference.cache
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\PARAMETERS SUBMISSION ASSIGNMENT\obj\Debug\PARAMETERS SUBMISSION ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\PARAMETERS SUBMISSION ASSIGNMENT\obj\Debug\PARAMETERS SUBMISSION ASSIGNMENT.exe
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\PARAMETERS SUBMISSION ASSIGNMENT\obj\Debug\PARAMETERS SUBMISSION ASSIGNMENT.pdb
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\PARAMETERS SUBMISSION ASSIGNMENT\obj\Debug\PARAMETERS SUBMISSION ASSIGNMENT.exe.config
