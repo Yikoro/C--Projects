@@ -1,0 +1,7 @@
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\LAMBDA SUBMISSION ASSIGNMENT\bin\Debug\LAMBDA SUBMISSION ASSIGNMENT.exe.config
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\LAMBDA SUBMISSION ASSIGNMENT\bin\Debug\LAMBDA SUBMISSION ASSIGNMENT.exe
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\LAMBDA SUBMISSION ASSIGNMENT\bin\Debug\LAMBDA SUBMISSION ASSIGNMENT.pdb
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\LAMBDA SUBMISSION ASSIGNMENT\obj\Debug\LAMBDA SUBMISSION ASSIGNMENT.csproj.AssemblyReference.cache
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\LAMBDA SUBMISSION ASSIGNMENT\obj\Debug\LAMBDA SUBMISSION ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\LAMBDA SUBMISSION ASSIGNMENT\obj\Debug\LAMBDA SUBMISSION ASSIGNMENT.exe
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\LAMBDA SUBMISSION ASSIGNMENT\obj\Debug\LAMBDA SUBMISSION ASSIGNMENT.pdb
