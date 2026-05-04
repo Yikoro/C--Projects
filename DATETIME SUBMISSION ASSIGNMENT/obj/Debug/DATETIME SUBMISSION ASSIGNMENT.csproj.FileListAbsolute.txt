@@ -1,0 +1,8 @@
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\DATETIME SUBMISSION ASSIGNMENT\obj\Debug\DATETIME SUBMISSION ASSIGNMENT.csproj.AssemblyReference.cache
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\DATETIME SUBMISSION ASSIGNMENT\obj\Debug\DATETIME SUBMISSION ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\DATETIME SUBMISSION ASSIGNMENT\bin\Debug\DATETIME SUBMISSION ASSIGNMENT.exe.config
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\DATETIME SUBMISSION ASSIGNMENT\bin\Debug\DATETIME SUBMISSION ASSIGNMENT.exe
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\DATETIME SUBMISSION ASSIGNMENT\bin\Debug\DATETIME SUBMISSION ASSIGNMENT.pdb
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\DATETIME SUBMISSION ASSIGNMENT\obj\Debug\DATETIME SUBMISSION ASSIGNMENT.exe
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\DATETIME SUBMISSION ASSIGNMENT\obj\Debug\DATETIME SUBMISSION ASSIGNMENT.pdb
+C:\Users\jgibs\OneDrive\Desktop\Basic_C#_Programs\DATETIME SUBMISSION ASSIGNMENT\obj\Debug\DATETIME SUBMISSION ASSIGNMENT.exe.config
